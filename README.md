@@ -1,3 +1,3 @@
 # hello-world
-First repository on Github
-this is commit for chnage in file.
+repository on Github
+this is commit for change in file.
